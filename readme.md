@@ -36,6 +36,11 @@ Github Repository<br>
 				cp .env.example .env
 		</td>
 	</tr>
+    <tr>
+		<td>
+				composer install
+		</td>
+	</tr>
 	<tr>
 		<td>
 				php artisan migrate:refresh –seed
