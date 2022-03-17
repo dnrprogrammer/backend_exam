@@ -3,7 +3,7 @@
 1. Please install XAMPP using PHP Version 7.4 and set up our Admin Panel Template using Laravel Framework to your local.  
 <br>
 Github Repository<br><br>
-<b>Repository:<b> <em>git clone https://github.com/dnrprogrammer/backend_exam.git</em><br>
+<b>Repository:</b> <em>git clone https://github.com/dnrprogrammer/backend_exam.git</em><br>
 <b>Branch:</b> main
 <br><br>
 
