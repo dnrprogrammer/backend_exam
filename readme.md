@@ -42,13 +42,13 @@ Github Repository<br>
 		</td>
 	</tr>
 </table>
-<p><b>Note:</b> Please create database and update your database connection</p>
+<p><b>Note:</b> <em>Please create database and update your database connection</em></p>
 
 
 <br><br>
 <b>3.</b> To access the Admin Panel, go to this link : http://localhost/laravelv2/admin/login 
 <br>
-<p><b>Note:</b> Please log in using admin credentials below. There’s no need to run php artisan serve as our template is designed to run on localhost/laravelv2 url</p>
+<p><b>Note:</b> <em>Please log in using admin credentials below. There’s no need to run php artisan serve as our template is designed to run on localhost/laravelv2 url</em></p>
 
 <table>
 	<tr>
