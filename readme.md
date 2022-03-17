@@ -26,24 +26,24 @@ Github Repository<br>
 2. There’s no need to run php artisan serve as our template is designed to run on localhost/laravelv2 url.  Just run the following commands:
 	<br>
 
-	<table>
-		<tr>
-			<td>
-					<em>git clone https://github.com/dnrprogrammer/backend_exam.git<Br></em>
-			</td>
-		</tr>
-		<tr>
-			<td>
-					cp .env.example .env
-			</td>
-		</tr>
-		<tr>
-			<td>
-					php artisan migrate:refresh –seed
-			</td>
-		</tr>
-	</table>
-	<p><b>Note:</b> Please create database and update your database connection</p>
+<table>
+	<tr>
+		<td>
+				<em>git clone https://github.com/dnrprogrammer/backend_exam.git<Br></em>
+		</td>
+	</tr>
+	<tr>
+		<td>
+				cp .env.example .env
+		</td>
+	</tr>
+	<tr>
+		<td>
+				php artisan migrate:refresh –seed
+		</td>
+	</tr>
+</table>
+<p><b>Note:</b> Please create database and update your database connection</p>
 
 
 <br><br>
@@ -51,24 +51,24 @@ Github Repository<br>
 <br>
 <p>Note: Please log in using admin credentials below. There’s no need to run php artisan serve as our template is designed to run on localhost/laravelv2 url</p>
 
-	<table>
-		<tr>
-			<th>
-					Username:
-			</th>
-			<th>
-					Password:
-			</th>
-		</tr>
-		<tr>
-			<td>
-					webmaster
-			</td>
-			<td>
-					P@ssword1
-			</td>
-		</tr>
-	</table>
+<table>
+	<tr>
+		<th>
+				Username:
+		</th>
+		<th>
+				Password:
+		</th>
+	</tr>
+	<tr>
+		<td>
+				webmaster
+		</td>
+		<td>
+				P@ssword1
+		</td>
+	</tr>
+</table>
 
 <br><br>
 
