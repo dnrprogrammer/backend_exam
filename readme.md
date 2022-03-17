@@ -13,8 +13,9 @@ Github Repository<br><br>
 
 git clone https://github.com/dnrprogrammer/backend_exam.git<Br>
 composer install<br>
-cp .env.example .env         <p><b>Note:</b> Please create database and update your database connection</p><br>
+cp .env.example .env<br>
 php artisan migrate:refresh –seed<br>
+<p><b>Note:</b> Please create database and update your database connection</p>
 
 
 <br><br>
