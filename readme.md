@@ -1,6 +1,6 @@
 <h1><center>APPLICANT BACKEND EXAM</center></h1>
 
-1. Please install XAMPP using PHP Version 7.4 and set up our Admin Panel Template using Laravel Framework to your local.  
+<b>1.</b> Please install XAMPP using PHP Version 7.4 and set up our Admin Panel Template using Laravel Framework to your local.  
 <br>
 Github Repository<br>
 <table>
@@ -22,8 +22,7 @@ Github Repository<br>
 	</tr>
 </table>
 
-
-2. There’s no need to run php artisan serve as our template is designed to run on localhost/laravelv2 url.  Just run the following commands:
+<b>2.</b> There’s no need to run php artisan serve as our template is designed to run on localhost/laravelv2 url.  Just run the following commands:
 	<br>
 
 <table>
@@ -47,17 +46,17 @@ Github Repository<br>
 
 
 <br><br>
-3. To access the Admin Panel, go to this link : http://localhost/laravelv2/admin/login 
+<b>3.</b> To access the Admin Panel, go to this link : http://localhost/laravelv2/admin/login 
 <br>
-<p>Note: Please log in using admin credentials below. There’s no need to run php artisan serve as our template is designed to run on localhost/laravelv2 url</p>
+<p><b>Note:</b> Please log in using admin credentials below. There’s no need to run php artisan serve as our template is designed to run on localhost/laravelv2 url</p>
 
 <table>
 	<tr>
 		<th>
-				Username:
+				Username
 		</th>
 		<th>
-				Password:
+				Password
 		</th>
 	</tr>
 	<tr>
@@ -72,9 +71,9 @@ Github Repository<br>
 
 <br><br>
 
-4. On your Admin > Pages > Edit Page. Please add new editable fields such as Text, Image Uploader and Content Editor. 
+<b>4.</b> On your Admin > Pages > Edit Page. Please add new editable fields such as Text, Image Uploader and Content Editor. 
 <br>
 <b>Ex:</b> https://prnt.sc/5ZuzWHIvJXWS
 <br><br>
-5. You must use our created function called addSection inside of helpers.php to properly perform the task.
+<b>5.</b> You must use our created function called addSection inside of helpers.php to properly perform the task.
 
