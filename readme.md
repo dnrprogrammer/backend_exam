@@ -21,7 +21,7 @@ Github Repository<br>
 		</td>
 	</tr>
 </table>
-
+<br><br>
 <b>2.</b> There’s no need to run php artisan serve as our template is designed to run on localhost/laravelv2 url.  Just run the following commands:
 	<br>
 
