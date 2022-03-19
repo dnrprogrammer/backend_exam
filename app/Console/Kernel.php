@@ -14,7 +14,7 @@ class Kernel extends ConsoleKernel
      */
     protected $commands = [
         //
-        Commands\makeModule::class,
+        // Commands\makeModule::class,
         Commands\iSeedAll::class,
     ];
 
